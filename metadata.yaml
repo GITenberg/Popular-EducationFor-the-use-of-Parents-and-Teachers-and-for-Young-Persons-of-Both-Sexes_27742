@@ -1,0 +1,29 @@
+_repo: Popular-EducationFor-the-use-of-Parents-and-Teachers-and-for-Young-Persons-of-Both-Sexes_27742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mayhew, Ira
+    birthdate: 1814
+    deathdate: 1894
+    gutenberg_agent_id: '32878'
+    url: http://www.gutenberg.org/2009/agents/32878
+description: ''
+gutenberg_issued: '2009-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27742'
+  lccn: 08010997
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Education'
+title: 'Popular Education
+
+  For the use of Parents and Teachers, and for Young Persons of Both Sexes'
+url: http://www.gutenberg.org/ebooks/27742
