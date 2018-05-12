@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32878'
     url: http://www.gutenberg.org/2009/agents/32878
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27742#Popular-EducationFor-the-use-of-Parents-and-Teachers-and-for-Young-Persons-of-Both-Sexes
 gutenberg_issued: '2009-01-08'
 gutenberg_type: Text
 identifiers:
