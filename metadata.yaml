@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'LC'
 - !lcsh 'Education'
+- GITenberg
 title: 'Popular Education
 
   For the use of Parents and Teachers, and for Young Persons of Both Sexes'
